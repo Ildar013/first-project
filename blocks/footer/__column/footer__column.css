@@ -1,0 +1,20 @@
+.footer__column {
+    min-height: 250px;
+}
+.footer__column_content_copyright {
+    flex-basis: 711px;
+    position: relative;
+}
+.footer__column-heading {
+    line-height: 18px;
+    font-size: 18px;
+    color:#FFF;
+    margin: 0 0 20px;
+}
+.footer__column-links {
+    padding: 0;
+    cursor: pointer;
+}
+.footer__column_content_info {
+    margin-right: 45px;
+}

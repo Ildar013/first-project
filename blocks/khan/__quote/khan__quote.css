@@ -1,0 +1,17 @@
+.khan__quote {
+    line-height:1.4em;
+    font-size:1em;
+    margin:2.3em 0 0;
+    width:32em;
+}
+
+.khan__quote-author {
+    font-size:1em;
+    font-weight:700;
+    margin:1.5em 0 0;
+}
+
+.khan__quote-author-subline {
+    font-size:1em;
+    margin:.4em 0 0;
+}

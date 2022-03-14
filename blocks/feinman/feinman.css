@@ -1,0 +1,7 @@
+.feinman {
+    font-size: 36px;
+    height: 890px;
+    background: #F2F2F2 url(../feinman/feinman.png) no-repeat bottom left;
+    background-size: 867px 637px; 
+    position: relative;
+}
