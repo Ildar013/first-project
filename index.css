@@ -1,3 +1,4 @@
+@import url(../first-project/vendor/normalize.css);
 @import url(../first-project/blocks/page/page.css);
 
 @import url(../first-project/blocks/header/header.css);
